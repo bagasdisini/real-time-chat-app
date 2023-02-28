@@ -1,0 +1,16 @@
+# Ignore build artifacts and other temporary files
+build/
+dist/
+node_modules/
+*.log
+
+# Ignore Go modules and build artifacts
+backend/vendor/
+backend/build/
+
+# Ignore Angular build artifacts and dependencies
+frontend/node_modules/
+
+# Ignore other editor and IDE files
+.vscode/
+.idea/
