@@ -1,4 +1,4 @@
-# Binary to Decimal Converter
+# Real-time Chat App
 
 ![Chat App Demo](demo.gif)
 
